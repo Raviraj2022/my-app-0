@@ -1,0 +1,8 @@
+div.Self {
+  border: solid 2px purple;
+  border-radius: 20px;
+  width: 300px;
+}
+div.Self h2 {
+  color: orange;
+}
